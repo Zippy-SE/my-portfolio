@@ -1,0 +1,20 @@
+﻿.tahoma {
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.deals {
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sales {
+    color: red;
+    font-family: 'Arial Narrow';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 25px;
+}

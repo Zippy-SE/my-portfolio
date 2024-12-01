@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334DF6A2-2C33-423B-ACB0-F8416998A1B0}|C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises|c:\\my-portfolio\\html-css_full_course\\lesson 5 - text styles\\lesson 5 exercises\\youtube html.css course by supersimpledev -- lesson 5 exercises\\lesson 5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334DF6A2-2C33-423B-ACB0-F8416998A1B0}|C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises|solutionrelative:youtube html.css course by supersimpledev -- lesson 5 exercises\\lesson 5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334DF6A2-2C33-423B-ACB0-F8416998A1B0}|C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises|C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\youtube html.css course by supersimpledev -- lesson 5 exercises\\lesson 5 styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{334DF6A2-2C33-423B-ACB0-F8416998A1B0}|C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises|solutionrelative:youtube html.css course by supersimpledev -- lesson 5 exercises\\lesson 5 styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson 5.html",
+              "DocumentMoniker": "C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5.html",
+              "RelativeDocumentMoniker": "YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5.html",
+              "ToolTip": "C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5.html",
+              "RelativeToolTip": "YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T10:01:20.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson 5 Styles.css",
+              "DocumentMoniker": "C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5 Styles.css",
+              "RelativeDocumentMoniker": "YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5 Styles.css",
+              "ToolTip": "C:\\my-portfolio\\HTML-CSS_Full_Course\\Lesson 5 - Text Styles\\Lesson 5 Exercises\\YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5 Styles.css",
+              "RelativeToolTip": "YouTube HTML.CSS Course by SuperSimpleDev -- Lesson 5 Exercises\\Lesson 5 Styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T10:01:48.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
