@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj": {}
+    "C:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "c:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj": {
+    "C:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "C:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "c:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj",
+        "projectPath": "C:\\my-portfolio\\C# Programs\\helloworld\\helloworld.csproj",
         "packagesPath": "C:\\Users\\Zippy.GEEKGALAXY.000\\.nuget\\packages\\",
-        "outputPath": "c:\\my-portfolio\\C# Programs\\helloworld\\obj\\",
+        "outputPath": "C:\\my-portfolio\\C# Programs\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
