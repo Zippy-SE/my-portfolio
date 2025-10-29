@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: Debug Active File-Based App",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${file}"
+        },
+        {
+            "name": "Debug active C file (gdb)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "preLaunchTask": "C/C++: gcc.exe build active file",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty printing",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+        ,
+        {
+            "name": "Run active exe (no debug, paused)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": [
+                "-NoProfile",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-Command",
+                "& '${fileDirname}\\${fileBasenameNoExtension}.exe'; Read-Host -Prompt 'Press Enter to close'"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "externalConsole": false,
+            "preLaunchTask": "C/C++: gcc.exe build active file"
+        }
+    ]
+}
