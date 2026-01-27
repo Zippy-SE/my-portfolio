@@ -1,0 +1,1 @@
+This project shows links to recipes and it is a simple website.
