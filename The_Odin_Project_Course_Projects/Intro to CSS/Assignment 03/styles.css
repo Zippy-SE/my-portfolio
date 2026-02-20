@@ -1,0 +1,16 @@
+.one {
+    background-color: #0a0a0a;
+    width: 300px;
+    height: 100px;
+    color: hsl(0, 0%, 100%)
+}
+.two {
+    background-color: rgb(255, 240, 35);
+    width: 500px;
+    height: 100px;
+}
+
+.one, .two {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}

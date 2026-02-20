@@ -1,0 +1,19 @@
+p:nth-child(odd) {
+    background-color: hsl(350, 100%, 88%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#line2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.graph {
+    font-size: 24px;
+}
+
+#line4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold ;
+}
